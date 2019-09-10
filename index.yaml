@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  helmchart-demo:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-09-10T07:33:44.582122611+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 3fa8c95c0a1d813ffa6754cc76c5f88746ba7c76479abd3d76dda85404fc54db
+    name: helmchart-demo
+    urls:
+    - https://github.com/sagayd/helm-repo/tree/gh-pages/helmchart-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-09-10T07:33:44.580996111+05:30"
